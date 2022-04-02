@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <body>
+  
+  <h2>WHAT IS THIS EMAIL ABOUT?</h2>
+  
+  <form method="POST" action="/">
+    Email:<br>
+    <textarea name="email" cols="100" rows="20"></textarea>
+    <br><br>
+    <input type="submit" value="Submit">
+  </form>
+
+  {% if pred %}
+  <h2>This email is about TOPIC: {{ pred }}</h2>
+  {% endif %}
+
+  </body>
+</html>
