@@ -41,4 +41,9 @@ The details of the modeling steps and results can be found in [notebook](001_mod
 * copy this address http://127.0.0.1:5000/ to your broswer
 ![address](image/address.PNG)
 * copy and paste an email into the email text box and click "submit", The topic of this email will be displayed below.
+![empty box](image/empty_textbox.PNG)
+
+### Train or Retrain the model
+
+The modeling building steps are provided as a notebook here since I am not sure I can provide all the emails for training here
 
