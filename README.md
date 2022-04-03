@@ -2,11 +2,13 @@
  ![this is an image](image/API.png)
 
 
-Simple overview of use/purpose.
+This API takes an email as input and output the topic of it.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The model consists two steps:
+step 1: Topic Modeling using LDA. Inputs are unlabeled unstructured emails (emails not included in this public repo due to privacy concern). Emails are grouped into 4 topics: "TIME";"COMPUTER";"INFORMATION";"SPORTS". Each email is then labeled with one of the four topics.
+step 2. 
 
 ## Getting Started
 
