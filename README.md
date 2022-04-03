@@ -26,7 +26,6 @@ The details of the modeling steps and results can be found in [notebook](001_mod
 \
         virtualenv --python=python3 venv\
         source venv/bin/activate
-\
 * install all package by command:\
         pip install -r requirements.txt
 
