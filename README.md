@@ -39,5 +39,6 @@ The details of the modeling steps and results can be found in [notebook](001_mod
 * run the app by command:
         python run.py    
 * copy this address http://127.0.0.1:5000/ to your broswer
+![address](image/address.PNG)
 * copy and paste an email into the email text box and click "submit", The topic of this email will be displayed below.
 
