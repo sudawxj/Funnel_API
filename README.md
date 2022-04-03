@@ -1,2 +1,2 @@
 # Funnel_API
- !(image/API.png)
+ ![this is an image](image/API.png)
