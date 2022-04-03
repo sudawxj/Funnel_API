@@ -16,11 +16,15 @@ The details of the modeling steps and results can be found in [notebook](001_mod
 
 ### Dependencies
 
-* The model was built in Python
+* The model was built in Python 3.9
 
 ### Installing
 
-* How/where to download your program
+* download the Funnel_API.
+* go to Funnel_API/002_flaskapp
+* step up virtual enviroment using following two commands:\
+  virtualenv --python=python3 venv\
+  source venv/bin/activate
 * Any modifications needed to be made to files/folders
 
 ### Executing program
