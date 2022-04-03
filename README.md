@@ -16,8 +16,7 @@ The details of the modeling steps and results can be found in [notebook](001_mod
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* The model was built in Python
 
 ### Installing
 
