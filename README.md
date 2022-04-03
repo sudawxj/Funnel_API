@@ -23,9 +23,16 @@ The details of the modeling steps and results can be found in [notebook](001_mod
 * download the Funnel_API.
 * go to Funnel_API/002_flaskapp
 * step up virtual enviroment using following two commands:\
-  virtualenv --python=python3 venv\
-  source venv/bin/activate
-* Any modifications needed to be made to files/folders
+\
+    virtualenv --python=python3 venv\
+    source venv/bin/activate
+ \
+* install all package by command:\
+    pip install -r requirements.txt
+
+
+
+  
 
 ### Executing program
 
