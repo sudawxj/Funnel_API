@@ -24,11 +24,11 @@ The details of the modeling steps and results can be found in [notebook](001_mod
 * go to Funnel_API/002_flaskapp
 * step up virtual enviroment using following two commands:\
 \
-    virtualenv --python=python3 venv\
-    source venv/bin/activate
- \
+        virtualenv --python=python3 venv\
+        source venv/bin/activate
+\
 * install all package by command:\
-    pip install -r requirements.txt
+        pip install -r requirements.txt
 
 
 
@@ -36,8 +36,9 @@ The details of the modeling steps and results can be found in [notebook](001_mod
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* run the app by command:
+        python run.py    
+* copy this address http://127.0.0.1:5000/ to your broswer
 ```
 code blocks for commands
 ```
