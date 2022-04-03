@@ -9,7 +9,8 @@ This API takes an email as input and output the topic of it.
 The model consists two steps:
 * step 1: Topic Modeling using LDA. Inputs are unlabeled unstructured emails (emails not included in this public repo due to privacy concern). Emails are grouped into 4 topics: "TIME";"COMPUTER";"INFORMATION";"SPORTS". Each email is then labeled with one of the four topics.
 * step 2: Multiclass classification using Xgboost. The model is trained with the emails as independent variable and their corresponding topics as dependent variable. The trained classifer to detect the topic of a new email. \
-The details of the modeling steps and results can be found in [001_model/Funnel_model_building.ipynb]
+\
+The details of the modeling steps and results can be found in [notebook](001_model/Funnel_model_building.ipynb)
 
 ## Getting Started
 
