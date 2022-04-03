@@ -41,6 +41,7 @@ The details of the modeling steps and results can be found in [notebook](001_mod
 ![address](image/address.PNG)
 * copy and paste an email into the email text box and click "submit", The topic of this email will be displayed below.
 ![empty box](image/empty_textbox.PNG)
+* to quit, press CTRL+C in the terminal
 
 ### Train or Retrain the model
 
